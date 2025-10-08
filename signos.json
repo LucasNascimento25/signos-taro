@@ -1,0 +1,86 @@
+{
+  "aries": {
+    "nome": "ÁRIES",
+    "simbolo": "♈",
+    "carta": "A Estrela",
+    "previsao": "Esperança e inspiração guiam seu caminho.",
+    "conselho": "Continue acreditando, mesmo sem resultados imediatos."
+  },
+  "touro": {
+    "nome": "TOURO",
+    "simbolo": "♉",
+    "carta": "O Enforcado",
+    "previsao": "Uma pausa necessária trará novas perspectivas.",
+    "conselho": "Olhe as situações com outro ponto de vista."
+  },
+  "gemeos": {
+    "nome": "GÊMEOS",
+    "simbolo": "♊",
+    "carta": "O Sol",
+    "previsao": "Alegria, clareza e reconhecimento estarão presentes.",
+    "conselho": "Celebre vitórias e compartilhe sua luz com os outros."
+  },
+  "cancer": {
+    "nome": "CÂNCER",
+    "simbolo": "♋",
+    "carta": "O Papa",
+    "previsao": "Sabedoria e conselhos chegam até você. Siga princípios e valores para prosperar.",
+    "conselho": "Escute a voz da experiência."
+  },
+  "leao": {
+    "nome": "LEÃO",
+    "simbolo": "♌",
+    "carta": "O Louco",
+    "previsao": "Um recomeço está pronto. Caminhos novos aparecem trazendo leveza e liberdade.",
+    "conselho": "Arrisque-se sem medo do desconhecido, confie."
+  },
+  "virgem": {
+    "nome": "VIRGEM",
+    "simbolo": "♍",
+    "carta": "A Roda da Fortuna",
+    "previsao": "Hoje o destino gira a seu favor. Mudanças inesperadas podem abrir portas valiosas.",
+    "conselho": "Adapte-se rápido."
+  },
+  "libra": {
+    "nome": "LIBRA",
+    "simbolo": "♎",
+    "carta": "O Imperador",
+    "previsao": "Organização e disciplina definem o dia. Estruture planos com responsabilidade e firmeza.",
+    "conselho": "Liderar é equilibrar."
+  },
+  "escorpiao": {
+    "nome": "ESCORPIÃO",
+    "simbolo": "♏",
+    "carta": "A Lua",
+    "previsao": "Nem tudo será transparente hoje. Ilusões podem confundir sua percepção.",
+    "conselho": "Confie na intuição."
+  },
+  "sagitario": {
+    "nome": "SAGITÁRIO",
+    "simbolo": "♐",
+    "carta": "A Justiça",
+    "previsao": "O equilíbrio é fundamental hoje. Suas decisões terão consequências importantes no futuro.",
+    "conselho": "Seja justo."
+  },
+  "capricornio": {
+    "nome": "CAPRICÓRNIO",
+    "simbolo": "♑",
+    "carta": "A Temperança",
+    "previsao": "O caminho da moderação trará paz. Equilibre seus sentimentos e atitudes.",
+    "conselho": "Evite extremos."
+  },
+  "aquario": {
+    "nome": "AQUÁRIO",
+    "simbolo": "♒",
+    "carta": "O Julgamento",
+    "previsao": "Hora de renascer. O passado retorna apenas para encerrar pendências.",
+    "conselho": "Libere-se de culpas antigas e avance livre."
+  },
+  "peixes": {
+    "nome": "PEIXES",
+    "simbolo": "♓",
+    "carta": "A Força",
+    "previsao": "Você terá domínio emocional e coragem para superar desafios. Serenidade vence.",
+    "conselho": "Use gentileza como sua arma mais poderosa."
+  }
+}
