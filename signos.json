@@ -1,86 +1,86 @@
 {
-  "aries": {
-    "nome": "ÁRIES",
-    "simbolo": "♈",
-    "carta": "Oito de Copas",
-    "previsao": "Você deixará para trás algo que não traz mais sentido.",
-    "conselho": "O desapego é caminho para novas oportunidades surgirem."
+  "Áries": {
+    "imagem": {
+      "url": "https://portaledicase.com/wp-content/uploads/2025/06/aries-1.jpg",
+      "descricao": "Os arianos estarão com a mente mais ágil e cheia de ideias neste sábado"
+    },
+    "previsao": "Neste sábado, a sua mente estará mais ágil e cheia de ideias, favorecendo a comunicação e o aprendizado. Além disso, a curiosidade se destacará. Nesse cenário, será possível que conversas importantes abram portas e tragam ideias valiosas. Aproveite as energias do dia para se conectar com amigos e colegas, explorar diferentes assuntos e trocar informações."
   },
-  "touro": {
-    "nome": "TOURO",
-    "simbolo": "♉",
-    "carta": "Cinco de Espadas",
-    "previsao": "Conflitos podem desgastar, mas não trarão vitória verdadeira.",
-    "conselho": "Preserve sua paz."
+  "Touro": {
+    "imagem": {
+      "url": "https://portaledicase.com/wp-content/uploads/2025/06/touro-1.jpg",
+      "descricao": "Os taurinos estarão envolvidos com as finanças e os valores pessoais"
+    },
+    "previsao": "Você se envolverá intensamente com as finanças e os valores pessoais, e sua mente estará especialmente ágil, favorecendo negociações e decisões estratégicas. Haverá oportunidades para descobrir maneiras de aumentar sua segurança material ou investir em algo que valorize seu bem-estar. A clareza na comunicação será fundamental para esclarecer dúvidas e tomar decisões seguras."
   },
-  "gemeos": {
-    "nome": "GÊMEOS",
-    "simbolo": "♊",
-    "carta": "Três de Bastões",
-    "previsao": "Novas possibilidades aparecerão, exigindo coragem e visão de futuro.",
-    "conselho": "Confie no que é coerente."
+  "Gêmeos": {
+    "imagem": {
+      "url": "https://portaledicase.com/wp-content/uploads/2025/06/gemeos-1.jpg",
+      "descricao": "Os geminianos estarão com a comunicação e a curiosidade em alta"
+    },
+    "previsao": "A comunicação e a curiosidade estarão em alta, incentivando você a explorar novas ideias e mostrar seu lado mais espontâneo. O dia será propício para se conectar com pessoas novas e compartilhar opiniões com entusiasmo. No processo, confie em sua capacidade de adaptação."
   },
-  "cancer": {
-    "nome": "CÂNCER",
-    "simbolo": "♋",
-    "carta": "Quatro de Ouros",
-    "previsao": "Você buscará segurança, mas o apego pode limitar crescimento.",
-    "conselho": "Solte o medo da perda e confie no fluxo."
+  "Câncer": {
+    "imagem": {
+      "url": "https://portaledicase.com/wp-content/uploads/2025/06/cancer-1.jpg",
+      "descricao": "Os cancerianos buscarão equilibrar o desejo de liberdade com as responsabilidades afetivas"
+    },
+    "previsao": "Você buscará equilibrar o desejo de liberdade com as responsabilidades afetivas. No processo, contudo, poderá sentir um peso maior ao lidar com as emoções. Logo, deverá ter mais cuidado com as palavras para evitar mal-entendidos. Também será importante revisar as prioridades e fortalecer a autoestima."
   },
-  "leao": {
-    "nome": "LEÃO",
-    "simbolo": "♌",
-    "carta": "Nove de Espadas",
-    "previsao": "Ansiedades podem surgir, mas são maiores na mente do que na vida.",
-    "conselho": "Respire fundo, descanse e busque equilíbrio emocional."
+  "Leão": {
+    "imagem": {
+      "url": "https://portaledicase.com/wp-content/uploads/2025/06/leao-1.jpg",
+      "descricao": "Os leoninos deverão evitar decisões precipitadas"
+    },
+    "previsao": "Você poderá se sentir dividido(a) entre o desejo de se conectar emocionalmente e a necessidade de proteger o seu espaço interior. Nesse cenário, deverá tomar cuidado para não se cobrar demais ou se prender a inseguranças antigas. Também será importante evitar decisões precipitadas em questões afetivas ou financeiras."
   },
-  "virgem": {
-    "nome": "VIRGEM",
-    "simbolo": "♍",
-    "carta": "Rei de Copas",
-    "previsao": "Seu domínio emocional fará diferença em situações delicadas.",
-    "conselho": "Acolha sem absorver dores que não são suas."
+  "Virgem": {
+    "imagem": {
+      "url": "https://portaledicase.com/wp-content/uploads/2025/06/virgem-1.jpg",
+      "descricao": "Os virginianos deverão evitar se prender a expectativas que não correspondem à realidade"
+    },
+    "previsao": "Neste sábado, você poderá enfrentar desafios, cobranças ou limitações nas amizades. Será um dia importante para avaliar quem realmente acrescenta em sua vida e onde vale a pena investir a energia. No processo, evite se prender a expectativas que não correspondem à realidade e tome cuidado para não se isolar."
   },
-  "libra": {
-    "nome": "LIBRA",
-    "simbolo": "♎",
-    "carta": "Sete de Ouros",
-    "previsao": "Os frutos estão próximos, mas exigem paciência e constância.",
-    "conselho": "Continue nutrindo seus projetos com dedicação e calma."
+  "Libra": {
+    "imagem": {
+      "url": "https://portaledicase.com/wp-content/uploads/2025/06/libra-1.jpg",
+      "descricao": "Os librianos poderão sentir a necessidade de provar o próprio valor"
+    },
+    "previsao": "O trabalho e as responsabilidades diárias poderão gerar algumas tensões, especialmente em relação a expectativas e reconhecimento. Você poderá sentir a necessidade de provar seu valor e lidar com limitações que exigirão paciência e disciplina. Para não sobrecarregar o emocional, será fundamental equilibrar ambição e cuidado consigo mesmo."
   },
-  "escorpiao": {
-    "nome": "ESCORPIÃO",
-    "simbolo": "♏",
-    "carta": "Pajem de Espadas",
-    "previsao": "A curiosidade trará respostas importantes e revelará novas perspectivas.",
-    "conselho": "Observe, estude e questione."
+  "Escorpião": {
+    "imagem": {
+      "url": "https://portaledicase.com/wp-content/uploads/2025/06/escorpiao-1.jpg",
+      "descricao": "Os escorpianos terão um dia propício para investir no crescimento"
+    },
+    "previsao": "Uma energia intensa e transformadora guiará as suas emoções, especialmente em questões profundas e pessoais. Ademais, a sua mente estará mais ágil e curiosa, trazendo ideias valiosas. Será um dia propício para investir no crescimento interno, abrindo espaço para mudanças que fortaleçam a sua essência. No processo, deverá confiar na intuição."
   },
-  "sagitario": {
-    "nome": "SAGITÁRIO",
-    "simbolo": "♐",
-    "carta": "Cavaleiro de Paus",
-    "previsao": "Você sentirá vontade de agir rápido e buscar novos rumos.",
-    "conselho": "Use a energia com foco para não se dispersar."
+  "Sagitário": {
+    "imagem": {
+      "url": "https://portaledicase.com/wp-content/uploads/2025/06/sagitario-1.jpg",
+      "descricao": "Energia intensa e transformadora, intuição aguçada"
+    },
+    "previsao": "Você estará com uma energia intensa e transformadora, além de uma intuição aguçada. Como resultado, conseguirá mergulhar fundo nas emoções e nos assuntos que envolvem as finanças, bem como descobrir verdades ocultas e fortalecer vínculos importantes. Em geral, o sábado será favorável para lidar com questões que precisam de mais confiança e renovação."
   },
-  "capricornio": {
-    "nome": "CAPRICÓRNIO",
-    "simbolo": "♑",
-    "carta": "Ás de Copas",
-    "previsao": "Novos sentimentos ou conexões surgirão, trazendo esperança ao coração.",
-    "conselho": "Permita-se sentir e aceite o que chega de bom."
+  "Capricórnio": {
+    "imagem": {
+      "url": "https://portaledicase.com/wp-content/uploads/2025/06/capricornio-1.jpg",
+      "descricao": "Os capricornianos terão facilidade para dialogar e resolver pendências"
+    },
+    "previsao": "Haverá uma energia harmoniosa rondando os relacionamentos, o que trará clareza e entendimento mútuo. Com isso, você poderá ter facilidade para dialogar e resolver pendências, fortalecendo as parcerias pessoais e profissionais. A sua capacidade de se conectar com o outro de forma sincera e aberta será um diferencial neste dia."
   },
-  "aquario": {
-    "nome": "AQUÁRIO",
-    "simbolo": "♒",
-    "carta": "Cinco de Paus",
-    "previsao": "Competição ou conflitos podem surgir, mas servirão como aprendizado.",
-    "conselho": "Mantenha firmeza sem perder sua essência."
+  "Aquário": {
+    "imagem": {
+      "url": "https://portaledicase.com/wp-content/uploads/2025/06/aquario-1.jpg",
+      "descricao": "Os aquarianos buscarão equilibrar o corpo e a mente"
+    },
+    "previsao": "A sua rotina tenderá a apresentar um ritmo mais leve e produtivo, havendo facilidade para organizar as tarefas e cuidar da saúde. Ao longo do dia, você buscará equilibrar o corpo e a mente, encontrando prazer no cotidiano. Por fim, a sua praticidade e boa comunicação poderão te ajudar a resolver questões profissionais com eficiência e criatividade."
   },
-  "peixes": {
-    "nome": "PEIXES",
-    "simbolo": "♓",
-    "carta": "Dez de Espadas",
-    "previsao": "Um ciclo se encerra, trazendo libertação para sua alma.",
-    "conselho": "Aceite o fim como início de uma nova fase."
+  "Peixes": {
+    "imagem": {
+      "url": "https://portaledicase.com/wp-content/uploads/2025/06/peixes-1.jpg",
+      "descricao": "Os piscianos estarão com a criatividade em alta"
+    },
+    "previsao": "A sua criatividade estará em alta, trazendo inspiração para se expressar de maneira leve e espontânea. Como resultado, você poderá encontrar alegria em atividades que envolvam lazer, projetos pessoais ou vida afetiva. Para melhorar, tenderá a se comunicar com mais facilidade, o que favorecerá encontros divertidos e conexões sinceras."
   }
 }
