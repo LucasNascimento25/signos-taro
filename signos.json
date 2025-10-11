@@ -1,71 +1,83 @@
 {
-  "Áries": {
+  "aries": {
+    "nome": "Áries",
     "simbolo": "♈",
     "carta": "Oito de Copas",
     "previsao": "Você deixará para trás algo que não traz mais sentido.",
     "conselho": "O desapego é o caminho para novas oportunidades surgirem."
   },
-  "Touro": {
+  "touro": {
+    "nome": "Touro",
     "simbolo": "♉",
     "carta": "Cinco de Espadas",
     "previsao": "Conflitos podem desgastar, mas não trarão vitória verdadeira.",
     "conselho": "Preserve sua paz."
   },
-  "Gêmeos": {
+  "gemeos": {
+    "nome": "Gêmeos",
     "simbolo": "♊",
     "carta": "Três de Bastões",
     "previsao": "Novas possibilidades aparecerão, exigindo coragem e visão de futuro.",
     "conselho": "Confie no que já construiu."
   },
-  "Câncer": {
+  "cancer": {
+    "nome": "Câncer",
     "simbolo": "♋",
     "carta": "Quatro de Ouros",
     "previsao": "Você buscará segurança, mas o apego pode limitar crescimento.",
     "conselho": "Solte o medo da perda e confie no fluxo."
   },
-  "Leão": {
+  "leao": {
+    "nome": "Leão",
     "simbolo": "♌",
     "carta": "Nove de Espadas",
     "previsao": "Ansiedades podem pesar, mas são maiores na mente do que na vida.",
     "conselho": "Respire fundo, descanse e busque equilíbrio emocional."
   },
-  "Virgem": {
+  "virgem": {
+    "nome": "Virgem",
     "simbolo": "♍",
     "carta": "Rei de Copas",
     "previsao": "Seu domínio emocional fará diferença em situações delicadas.",
     "conselho": "Acolha sem absorver dores que não são suas."
   },
-  "Libra": {
+  "libra": {
+    "nome": "Libra",
     "simbolo": "♎",
     "carta": "Sete de Ouros",
     "previsao": "Os frutos estão próximos, mas exigem paciência e constância.",
     "conselho": "Continue com dedicação e calma."
   },
-  "Escorpião": {
+  "escorpiao": {
+    "nome": "Escorpião",
     "simbolo": "♏",
     "carta": "Pajem de Espadas",
     "previsao": "A curiosidade trará respostas importantes e revelará novas perspectivas.",
     "conselho": "Observe, estude e questione."
   },
-  "Sagitário": {
+  "sagitario": {
+    "nome": "Sagitário",
     "simbolo": "♐",
     "carta": "Cavaleiro de Paus",
     "previsao": "Você sentirá vontade de agir rápido e buscar novos rumos.",
     "conselho": "Use a energia com foco para não se dispersar."
   },
-  "Capricórnio": {
+  "capricornio": {
+    "nome": "Capricórnio",
     "simbolo": "♑",
     "carta": "Ás de Copas",
     "previsao": "Novos sentimentos e conexões surgirão, trazendo esperança ao coração.",
     "conselho": "Permita-se sentir e aceite o que chega de bom."
   },
-  "Aquário": {
+  "aquario": {
+    "nome": "Aquário",
     "simbolo": "♒",
     "carta": "Cinco de Paus",
     "previsao": "Competição ou conflitos podem surgir, mas servirão como aprendizado.",
     "conselho": "Mantenha firmeza sem perder sua essência."
   },
-  "Peixes": {
+  "peixes": {
+    "nome": "Peixes",
     "simbolo": "♓",
     "carta": "Dez de Espadas",
     "previsao": "Um ciclo se encerra, trazendo libertação para sua alma.",
