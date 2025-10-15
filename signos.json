@@ -2,97 +2,85 @@
   "aries": {
     "nome": "Áries",
     "simbolo": "♈",
-    "carta": "Coragem Interior",
-    "previsao": "Um desafio surge para testar sua força. A superação trará orgulho e autoconfiança.",
-    "conselho": "Enfrente o medo com fé e ação.",
-    "comente": "1"
+    "carta": "O Imperador",
+    "previsao": "Assuma o comando da sua vida. Liderança e determinação trarão conquistas importantes.",
+    "conselho": "Estruture planos."
   },
   "touro": {
     "nome": "Touro",
     "simbolo": "♉",
-    "carta": "Colheita Serena",
-    "previsao": "Você verá o resultado do que plantou. Gratidão e manutenção do ritmo constante.",
-    "conselho": "Agradeça e mantenha o ritmo constante.",
-    "comente": "8"
+    "carta": "A Estrela",
+    "previsao": "Esperança e fé guiam seu dia. O futuro brilha com novas promessas.",
+    "conselho": "Confie, tudo acontece no tempo certo."
   },
   "gemeos": {
     "nome": "Gêmeos",
     "simbolo": "♊",
-    "carta": "Mudança Suave",
-    "previsao": "Um movimento inesperado trará leveza. O que parecia confuso começa a se encaixar.",
-    "conselho": "Permita-se fluir sem controlar tudo.",
-    "comente": "5"
+    "carta": "O Enforcado",
+    "previsao": "Uma pausa trará clareza. Mude sua perspectiva e liberte-se do que prende.",
+    "conselho": "Ver diferente é crescer."
   },
   "cancer": {
     "nome": "Câncer",
     "simbolo": "♋",
-    "carta": "Acolhimento Divino",
-    "previsao": "Você se sentirá amparado por algo maior. Confie nas forças internas.",
-    "conselho": "Entregue suas angústias ao universo.",
-    "comente": "Amém"
+    "carta": "O Julgamento",
+    "previsao": "Hora de reavaliar decisões antigas e seguir mais consciente. Renascimento à vista.",
+    "conselho": "Deixe o passado e siga."
   },
   "leao": {
     "nome": "Leão",
     "simbolo": "♌",
-    "carta": "Expansão",
-    "previsao": "As oportunidades se multiplicam. Sua presença atrai atenção e chances de crescimento pessoal e profissional.",
-    "conselho": "Aproveite o momento com sabedoria.",
-    "comente": "9"
+    "carta": "A Força",
+    "previsao": "Domínio emocional e coragem serão essenciais hoje. Confie na sua autossuficiência.",
+    "conselho": "A serenidade vence o descontrole e o medo."
   },
   "virgem": {
     "nome": "Virgem",
     "simbolo": "♍",
-    "carta": "Descanso Merecido",
-    "previsao": "O corpo e a mente pedem pausa. Um momento de quietude trará clareza.",
-    "conselho": "Descanse sem culpa ou pressa.",
-    "comente": "3"
+    "carta": "O Mago",
+    "previsao": "Seu poder de criação está ativo. Transforme ideias em resultados concretos.",
+    "conselho": "Aja agora, o momento é fértil para realizações."
   },
   "libra": {
     "nome": "Libra",
     "simbolo": "♎",
-    "carta": "Conciliação",
-    "previsao": "Um desentendimento será resolvido. O perdão trará leveza e reconexão com pessoas queridas.",
-    "conselho": "Escolha a paz, não o orgulho.",
-    "comente": "6"
+    "carta": "O Sol",
+    "previsao": "Alegria e sucesso iluminam o dia. Brilhe e celebre vitórias com otimismo.",
+    "conselho": "Espalhe luz por onde passar, ela retorna."
   },
   "escorpiao": {
     "nome": "Escorpião",
     "simbolo": "♏",
-    "carta": "Renascimento",
-    "previsao": "O velho se desfaz para abrir espaço ao novo. Você sairá mais forte e sábio.",
-    "conselho": "Aceite a transformação sem medo.",
-    "comente": "7"
+    "carta": "A Torre",
+    "previsao": "Mudanças repentinas trarão libertação. O que desaba abre espaço para renascer.",
+    "conselho": "Veja o fim como um novo começo."
   },
   "sagitario": {
     "nome": "Sagitário",
     "simbolo": "♐",
-    "carta": "Inspiração",
-    "previsao": "Ideias iluminadas surgem em meio ao cotidiano. Um lampejo criativo mudará sua perspectiva.",
-    "conselho": "Siga sua intuição criadora.",
-    "comente": "3"
+    "carta": "O Louco",
+    "previsao": "Novos caminhos se abrem. Abrace o desconhecido com alegria e coragem.",
+    "conselho": "Deixe o medo e siga a liberdade."
   },
   "capricornio": {
     "nome": "Capricórnio",
     "simbolo": "♑",
-    "carta": "Reconhecimento",
-    "previsao": "O esforço silencioso começa a ser visto. A justiça chega em forma de respeito e admiração.",
-    "conselho": "Continue agindo com verdade.",
-    "comente": "8"
+    "carta": "A Justiça",
+    "previsao": "O equilíbrio e a verdade conduzem suas escolhas. Aja com integridade.",
+    "conselho": "O certo nem sempre é o mais fácil."
   },
   "aquario": {
     "nome": "Aquário",
     "simbolo": "♒",
-    "carta": "Reencontro",
-    "previsao": "Alguém do passado pode reaparecer trazendo clareza ou encerramento. Emoções antigas se reorganizam.",
-    "conselho": "Escute antes de reagir.",
-    "comente": "2"
+    "carta": "A Temperança",
+    "previsao": "Moderação e paciência são suas maiores forças hoje. Tudo flui ao seu ritmo.",
+    "conselho": "Espere o tempo certo para cada passo."
   },
   "peixes": {
     "nome": "Peixes",
     "simbolo": "♓",
-    "carta": "Abundância",
-    "previsao": "O dia vibra prosperidade. Boas oportunidades materiais e espirituais se alinham.",
-    "conselho": "Agradeça e compartilhe.",
-    "comente": "8"
+    "carta": "A Lua",
+    "previsao": "Nem tudo será claro, mas sua intuição mostrará o caminho verdadeiro.",
+    "conselho": "Escute o coração e confie nas sensações sutis."
   }
 }
