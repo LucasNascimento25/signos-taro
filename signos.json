@@ -2,85 +2,85 @@
   "aries": {
     "nome": "Áries",
     "simbolo": "♈",
-    "carta": "Destino",
-    "previsao": "Hoje, o universo se move a seu favor. O que parecia incerto ganha sentido e direção divina.",
-    "conselho": "Confie na força do invisível."
+    "carta": "Seis de Ouros",
+    "previsao": "O equilíbrio entre dar e receber será essencial para manter harmonia.",
+    "conselho": "Seja generoso, mas evite gastar energia em excesso."
   },
   "touro": {
     "nome": "Touro",
     "simbolo": "♉",
-    "carta": "Projeto",
-    "previsao": "Um plano importante começa a tomar forma. Seu esforço irá gerar resultados sólidos.",
-    "conselho": "Acredite no passo que deu."
+    "carta": "Quatro de Copas",
+    "previsao": "Você pode se sentir desmotivado, mas algo bom está surgindo.",
+    "conselho": "Observe com atenção, oportunidades estão bem próximas."
   },
   "gemeos": {
     "nome": "Gêmeos",
     "simbolo": "♊",
-    "carta": "Mudança",
-    "previsao": "Transformações estão no ar. Novos rumos surgem e exigem coragem para deixar o velho para trás.",
-    "conselho": "Aceite o novo."
+    "carta": "Nove de Paus",
+    "previsao": "A persistência será seu maior trunfo diante dos desafios atuais.",
+    "conselho": "Continue firme, mesmo cansado, o sucesso está próximo."
   },
   "cancer": {
     "nome": "Câncer",
     "simbolo": "♋",
-    "carta": "Honras",
-    "previsao": "O reconhecimento chega de forma justa. Alguém valoriza seu empenho.",
-    "conselho": "Receba elogios com humildade."
+    "carta": "Oito de Espadas",
+    "previsao": "Pensamentos limitantes podem te prender. Há mais saídas do que imagina.",
+    "conselho": "Libere a mente."
   },
   "leao": {
     "nome": "Leão",
     "simbolo": "♌",
-    "carta": "Casa",
-    "previsao": "O lar será fonte de conforto e paz. Momentos simples trarão segurança.",
-    "conselho": "Valorize quem te acolhe sempre."
+    "carta": "Três de Copas",
+    "previsao": "Alegria e boas companhias aquecerão seu coração neste dia.",
+    "conselho": "Valorize as amizades e comemore pequenas vitórias."
   },
   "virgem": {
     "nome": "Virgem",
     "simbolo": "♍",
-    "carta": "Beleza",
-    "previsao": "O dia trará encantos inesperados. Um elogio ou gesto gentil reacenderá seu brilho e confiança.",
-    "conselho": "Veja graça em cada detalhe."
+    "carta": "Rei de Ouros",
+    "previsao": "Estabilidade e responsabilidade financeira trarão confiança e prosperidade.",
+    "conselho": "Use a razão para expandir."
   },
   "libra": {
     "nome": "Libra",
     "simbolo": "♎",
-    "carta": "União",
-    "previsao": "Parcerias e relacionamentos se fortalecem. O diálogo sincero trará harmonia.",
-    "conselho": "Cultive laços com empatia."
+    "carta": "Cinco de Espadas",
+    "previsao": "Evite disputas e discussões que não levam a nenhum crescimento.",
+    "conselho": "Às vezes, a vitória está em escolher o silêncio."
   },
   "escorpiao": {
     "nome": "Escorpião",
     "simbolo": "♏",
-    "carta": "Graça",
-    "previsao": "Uma bênção inesperada chega até você. O perdão e a bondade abrirão novos caminhos de paz.",
-    "conselho": "Seja canal de amor e luz."
+    "carta": "Sete de Copas",
+    "previsao": "Sonhos e ilusões podem confundir suas escolhas neste momento.",
+    "conselho": "Escolha com base na realidade, não nas aparências."
   },
   "sagitario": {
     "nome": "Sagitário",
     "simbolo": "♐",
-    "carta": "Inteligência",
-    "previsao": "Ideias criativas surgem e resolvem impasses. Sua mente estará clara para tomar decisões assertivas.",
-    "conselho": "Confie em seu raciocínio rápido."
+    "carta": "Ás de Paus",
+    "previsao": "Uma nova fase cheia de energia e inspiração se inicia.",
+    "conselho": "Aproveite o impulso criativo e comece algo agora."
   },
   "capricornio": {
     "nome": "Capricórnio",
     "simbolo": "♑",
-    "carta": "Felicidade",
-    "previsao": "Um momento alegre marcará seu dia. Pequenas vitórias trarão ânimo.",
-    "conselho": "Agradeça por cada sorriso dado."
+    "carta": "Cavaleiro de Copas",
+    "previsao": "Um gesto gentil trará afeto e novas possibilidades.",
+    "conselho": "Deixe o coração guiar."
   },
   "aquario": {
     "nome": "Aquário",
     "simbolo": "♒",
-    "carta": "Processo",
-    "previsao": "Pendências começam a se resolver. A paciência será sua maior aliada até o resultado final aparecer.",
-    "conselho": "Espere com fé e serenidade."
+    "carta": "Dez de Paus",
+    "previsao": "Responsabilidades acumuladas podem pesar. É hora de aliviar a carga.",
+    "conselho": "Solte o que não é mais sua obrigação."
   },
   "peixes": {
     "nome": "Peixes",
     "simbolo": "♓",
-    "carta": "Amor",
-    "previsao": "O coração estará mais sensível. Um gesto ou palavra trará emoção e sentimento.",
-    "conselho": "Expresse o que sente sem medo."
+    "carta": "Rainha de Espadas",
+    "previsao": "Sua lucidez será essencial para lidar com situações delicadas.",
+    "conselho": "Fale com clareza."
   }
 }
