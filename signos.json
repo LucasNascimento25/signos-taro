@@ -2,85 +2,97 @@
   "aries": {
     "nome": "Áries",
     "simbolo": "♈",
-    "carta": "Avanço",
-    "previsao": "O dia traz progresso rápido. Portas se abrem e o universo recompensa.",
-    "conselho": "Dê o primeiro passo sem hesitar."
+    "carta": "Renascimento",
+    "previsao": "Um obstáculo importante é vencido. O alívio chega e o caminho volta a fluir com força e clareza.",
+    "conselho": "Valorize cada vitória, mesmo as pequenas.",
+    "comente": "28"
   },
   "touro": {
     "nome": "Touro",
     "simbolo": "♉",
-    "carta": "Estabilidade",
-    "previsao": "Um sentimento de segurança toma conta do seu dia.",
-    "conselho": "Aprecie a calma depois da luta."
+    "carta": "Paciência",
+    "previsao": "Mesmo que o ritmo seja lento, tudo caminha na direção certa.",
+    "conselho": "Espere com fé e tranquilidade.",
+    "comente": "47"
   },
   "gemeos": {
     "nome": "Gêmeos",
     "simbolo": "♊",
-    "carta": "Acolhimento",
-    "previsao": "O carinho de alguém especial aquece seu coração. Gestos simples trazem conforto.",
-    "conselho": "Receba o amor que te é oferecido."
+    "carta": "Clareza",
+    "previsao": "A dúvida se desfaz e as respostas chegam. A mente se ilumina com ideias e caminhos práticos.",
+    "conselho": "Escute sua razão com calma.",
+    "comente": "28"
   },
   "cancer": {
     "nome": "Câncer",
     "simbolo": "♋",
-    "carta": "Descoberta",
-    "previsao": "Uma revelação muda seu olhar sobre alguém ou algo.",
-    "conselho": "Valorize a verdade, mesmo que doa."
+    "carta": "Amparo",
+    "previsao": "Alguém te oferece ajuda verdadeira em um momento delicado.",
+    "conselho": "Permita-se ser acolhido com amor.",
+    "comente": "26"
   },
   "leao": {
     "nome": "Leão",
     "simbolo": "♌",
     "carta": "Conquista",
-    "previsao": "Uma meta é atingida com sucesso. Seu brilho natural atrai reconhecimento.",
-    "conselho": "Compartilhe a vitória com generosidade."
+    "previsao": "Seu esforço é notado e sua presença inspira os outros a seguirem com mais força.",
+    "conselho": "Brilhe sem medo de se destacar.",
+    "comente": "31"
   },
   "virgem": {
     "nome": "Virgem",
     "simbolo": "♍",
     "carta": "Renovação",
-    "previsao": "Um novo ciclo começa. Velhos hábitos se encerram, e você ganha fôlego para recomeçar.",
-    "conselho": "Abrace o novo com leveza e fé."
+    "previsao": "A energia se renova. O que parecia perdido ganha uma nova chance de florescer.",
+    "conselho": "Acredite nos recomeços que a vida traz.",
+    "comente": "19"
   },
   "libra": {
     "nome": "Libra",
     "simbolo": "♎",
-    "carta": "Equilíbrio",
-    "previsao": "O dia flui em harmonia. Você encontra o ponto certo entre razão e emoção.",
-    "conselho": "Caminhe com calma e confiança."
+    "carta": "Harmonia",
+    "previsao": "O equilíbrio volta a reger seu dia. Você se sente em paz com decisões e relações.",
+    "conselho": "Mantenha o coração tranquilo e justo.",
+    "comente": "24"
   },
   "escorpiao": {
     "nome": "Escorpião",
     "simbolo": "♏",
     "carta": "Transformação",
-    "previsao": "Algo muda profundamente dentro de você.",
-    "conselho": "Deixe o passado se dissolver em paz."
+    "previsao": "Um ciclo intenso se encerra, abrindo espaço para algo maior. Mudanças trarão liberdade emocional.",
+    "conselho": "Solte o que impede sua evolução.",
+    "comente": "29"
   },
   "sagitario": {
     "nome": "Sagitário",
     "simbolo": "♐",
-    "carta": "Reconhecimento",
-    "previsao": "O esforço constante começa a ser notado. Suas ações inspiram confiança e respeito ao seu redor.",
-    "conselho": "Continue com humildade e foco."
+    "carta": "Esperança",
+    "previsao": "Uma boa notícia reacende sua fé. O universo te mostra que a espera valeu a pena.",
+    "conselho": "Planeje o próximo passo antes de se jogar.",
+    "comente": "17"
   },
   "capricornio": {
     "nome": "Capricórnio",
     "simbolo": "♑",
-    "carta": "Esperança",
-    "previsao": "Uma notícia boa reacende sua fé. O que parecia distante se aproxima com leveza e boas energias.",
-    "conselho": "Acredite no que o coração já sabe."
+    "carta": "Reconhecimento",
+    "previsao": "O esforço de meses começa a ser recompensado. A estabilidade está mais próxima.",
+    "conselho": "Celebre o merecimento com gratidão.",
+    "comente": "48"
   },
   "aquario": {
     "nome": "Aquário",
     "simbolo": "♒",
-    "carta": "Celebração",
-    "previsao": "A alegria volta a brilhar. Reencontros, boas notícias ou pequenas vitórias elevam seu ânimo.",
-    "conselho": "Comemore cada bênção recebida."
+    "carta": "Pensamento",
+    "previsao": "Ideias diferentes, soluções criativas e coincidências significativas indicam ajustes necessários.",
+    "conselho": "Anote percepções estranhas.",
+    "comente": "39"
   },
   "peixes": {
     "nome": "Peixes",
     "simbolo": "♓",
     "carta": "Intuição",
-    "previsao": "Um pressentimento guia suas decisões com sabedoria. Escutar sua voz interior será essencial hoje.",
-    "conselho": "Confie mais no que sente."
+    "previsao": "Sensibilidade aumenta e capta facilmente ambiente ao redor.",
+    "conselho": "Proteja sua energia escolhendo bem pessoas e ambientes hoje.",
+    "comente": "27"
   }
 }
