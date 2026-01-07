@@ -2,97 +2,97 @@
   "aries": {
     "nome": "Áries",
     "simbolo": "♈",
-    "carta": "O Mago",
-    "previsao": "Você inicia o ano com ideias fortes.",
-    "conselho": "Comece agora, sem esperar permissão ou condições perfeitas.",
-    "comente": "1"
+    "carta": "Impaciência",
+    "previsao": "Você quer tudo rápido, mas o dia pede estratégia.",
+    "conselho": "Respire fundo e aja no tempo certo.",
+    "comente": "Calma"
   },
   "touro": {
     "nome": "Touro",
     "simbolo": "♉",
-    "carta": "A Imperatriz",
-    "previsao": "Crescimento chega com carinho.",
-    "conselho": "Nutra seus planos com paciência e atenção diária constante.",
-    "comente": "6"
+    "carta": "Concretude",
+    "previsao": "O dia favorece resultados práticos. Resolver o que é real traz segurança.",
+    "conselho": "Faça o simples bem feito.",
+    "comente": "Seguro"
   },
   "gemeos": {
     "nome": "Gêmeos",
     "simbolo": "♊",
-    "carta": "A Justiça",
-    "previsao": "Clareza domina sua mente.",
-    "conselho": "Pese prós e contras antes de responder qualquer coisa.",
-    "comente": "2"
+    "carta": "Informação",
+    "previsao": "Uma notícia importante chega. Algo que você não sabia muda tudo.",
+    "conselho": "Confirme tudo antes de decidir qualquer coisa.",
+    "comente": "Mudar"
   },
   "cancer": {
     "nome": "Câncer",
     "simbolo": "♋",
-    "carta": "A Lua",
-    "previsao": "Seu coração fica sensível.",
-    "conselho": "Não tome decisões no escuro; espere a emoção baixar.",
-    "comente": "7"
+    "carta": "Nostalgia",
+    "previsao": "Lembranças voltam fortes. Você sente saudade, mas entende o quanto amadureceu.",
+    "conselho": "Honre o passado sem ficar preso.",
+    "comente": "Honra"
   },
   "leao": {
     "nome": "Leão",
     "simbolo": "♌",
-    "carta": "O Eremita",
-    "previsao": "Hoje você precisa de silêncio.",
-    "conselho": "Faça uma pausa e escute sua própria consciência com calma.",
-    "comente": "7"
+    "carta": "Orgulho",
+    "previsao": "Você percebe seu valor. O dia traz afirmação e coragem, mas cuidado para não se fechar.",
+    "conselho": "Seja firme, sem endurecer o coração.",
+    "comente": "Coragem"
   },
   "virgem": {
     "nome": "Virgem",
     "simbolo": "♍",
-    "carta": "O Sol",
-    "previsao": "Você brilha e inspira. Reconhecimento aparece e o dia fica mais leve.",
-    "conselho": "Celebre suas vitórias e espalhe energia boa por perto.",
-    "comente": "3"
+    "carta": "Mediação",
+    "previsao": "Um conflito pode ser resolvido. Você tem o dom de acalmar e encontrar acordo.",
+    "conselho": "Use diplomacia, mas imponha limites.",
+    "comente": "Resolver"
   },
   "libra": {
     "nome": "Libra",
     "simbolo": "♎",
-    "carta": "Os Enamorados",
-    "previsao": "Uma escolha importante surge. O coração pede verdade, e a razão pede responsabilidade.",
-    "conselho": "Decida pelo que traz paz, não apenas prazer momentâneo.",
-    "comente": "6"
+    "carta": "Precisão Mental",
+    "previsao": "Você enxerga detalhes que outros ignoram. Essa clareza evita erros e melhora decisões.",
+    "conselho": "Confie no seu olhar atento e prático.",
+    "comente": "Claro"
   },
   "escorpiao": {
     "nome": "Escorpião",
     "simbolo": "♏",
-    "carta": "A Roda da Fortuna",
-    "previsao": "Mudanças chegam rápido.",
-    "conselho": "Aproveite a chance sem medo de mudar o caminho.",
-    "comente": "5"
+    "carta": "Suspeita",
+    "previsao": "Algo te incomoda. O dia revela sinais sutis e pede atenção para não confiar cegamente em certas palavras.",
+    "conselho": "Observe mais e fale menos por agora.",
+    "comente": "Observe"
   },
   "sagitario": {
     "nome": "Sagitário",
     "simbolo": "♐",
-    "carta": "O Imperador",
-    "previsao": "Seu foco aumenta. É dia de organizar vida, trabalho e metas.",
-    "conselho": "Seja disciplinado e mantenha postura forte, sem rigidez excessiva.",
-    "comente": "4"
+    "carta": "Entusiasmo",
+    "previsao": "A energia sobe. Você sente vontade de agir, começar algo novo e espalhar alegria.",
+    "conselho": "Aproveite o impulso, mas evite exageros.",
+    "comente": "Agir"
   },
   "capricornio": {
     "nome": "Capricórnio",
     "simbolo": "♑",
-    "carta": "A Morte",
-    "previsao": "Algo precisa terminar. Você se liberta de peso antigo e abre espaço para o novo.",
-    "conselho": "Aceite o fim sem resistência; ele prepara algo melhor.",
-    "comente": "9"
+    "carta": "Originalidade Mental",
+    "previsao": "Uma ideia diferente surge. Você resolve algo com criatividade e inspira outros a pensar.",
+    "conselho": "Confie na sua mente inovadora hoje.",
+    "comente": "Confiar"
   },
   "aquario": {
     "nome": "Aquário",
     "simbolo": "♒",
-    "carta": "O Louco",
-    "previsao": "O novo chama você. Um recomeço leve aparece e pede coragem.",
-    "conselho": "Confie no caminho, mesmo sem ter todas as respostas.",
-    "comente": "1"
+    "carta": "Disciplina Prática",
+    "previsao": "O dia pede responsabilidade. Ao manter foco, você avança muito.",
+    "conselho": "Termine pendências antes de buscar novidades.",
+    "comente": "Foco"
   },
   "peixes": {
     "nome": "Peixes",
     "simbolo": "♓",
-    "carta": "A Estrela",
-    "previsao": "Fé e esperança se renovam. Você sente proteção e encontra inspiração para seguir.",
-    "conselho": "Acredite no impossível e mantenha o coração confiante.",
-    "comente": "8"
+    "carta": "Sensibilidade",
+    "previsao": "Você absorve o ambiente com facilidade. Se escolher bem onde estar, o dia será leve e espiritual.",
+    "conselho": "Proteja sua energia.",
+    "comente": "Leve"
   }
 }
