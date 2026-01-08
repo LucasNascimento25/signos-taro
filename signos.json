@@ -2,97 +2,97 @@
   "aries": {
     "nome": "Áries",
     "simbolo": "♈",
-    "carta": "Impaciência",
-    "previsao": "Você quer tudo rápido, mas o dia pede estratégia.",
-    "conselho": "Respire fundo e aja no tempo certo.",
-    "comente": "Calma"
+    "carta": "Amizade",
+    "previsao": "Uma amizade se fortalece hoje. Conversas sinceras trazem apoio.",
+    "conselho": "Valorize quem fica, mesmo nos dias difíceis.",
+    "comente": "2"
   },
   "touro": {
     "nome": "Touro",
     "simbolo": "♉",
-    "carta": "Concretude",
-    "previsao": "O dia favorece resultados práticos. Resolver o que é real traz segurança.",
-    "conselho": "Faça o simples bem feito.",
-    "comente": "Seguro"
+    "carta": "Negociações",
+    "previsao": "O dia favorece acordos e conversas importantes.",
+    "conselho": "Fale claro, escute bem, e feche com confiança.",
+    "comente": "3"
   },
   "gemeos": {
     "nome": "Gêmeos",
     "simbolo": "♊",
-    "carta": "Informação",
-    "previsao": "Uma notícia importante chega. Algo que você não sabia muda tudo.",
-    "conselho": "Confirme tudo antes de decidir qualquer coisa.",
-    "comente": "Mudar"
+    "carta": "Tráfego",
+    "previsao": "Tudo estará mais corrido hoje. Muitas tarefas e mensagens chegam juntas.",
+    "conselho": "Faça uma coisa por vez.",
+    "comente": "5"
   },
   "cancer": {
     "nome": "Câncer",
     "simbolo": "♋",
-    "carta": "Nostalgia",
-    "previsao": "Lembranças voltam fortes. Você sente saudade, mas entende o quanto amadureceu.",
-    "conselho": "Honre o passado sem ficar preso.",
-    "comente": "Honra"
+    "carta": "Claustro",
+    "previsao": "Você vai querer ficar mais quieto hoje. O silêncio ajuda.",
+    "conselho": "Descanse a mente e proteja sua energia.",
+    "comente": "7"
   },
   "leao": {
     "nome": "Leão",
     "simbolo": "♌",
-    "carta": "Orgulho",
-    "previsao": "Você percebe seu valor. O dia traz afirmação e coragem, mas cuidado para não se fechar.",
-    "conselho": "Seja firme, sem endurecer o coração.",
-    "comente": "Coragem"
+    "carta": "Honras",
+    "previsao": "Você será reconhecido por algo que fez bem. Elogios e respeito chegam.",
+    "conselho": "Receba com humildade, sem diminuir sua vitória.",
+    "comente": "8"
   },
   "virgem": {
     "nome": "Virgem",
     "simbolo": "♍",
-    "carta": "Mediação",
-    "previsao": "Um conflito pode ser resolvido. Você tem o dom de acalmar e encontrar acordo.",
-    "conselho": "Use diplomacia, mas imponha limites.",
-    "comente": "Resolver"
+    "carta": "Presentes",
+    "previsao": "Uma surpresa boa pode chegar. Pode ser mimo ou carinho que mostra que você é lembrado.",
+    "conselho": "Aceite com gratidão e coração leve.",
+    "comente": "6"
   },
   "libra": {
     "nome": "Libra",
     "simbolo": "♎",
-    "carta": "Precisão Mental",
-    "previsao": "Você enxerga detalhes que outros ignoram. Essa clareza evita erros e melhora decisões.",
-    "conselho": "Confie no seu olhar atento e prático.",
-    "comente": "Claro"
+    "carta": "Dinheiro",
+    "previsao": "As finanças pedem atenção hoje. Uma chance de ganho aparece.",
+    "conselho": "Use com equilíbrio e guarde um pouco também.",
+    "comente": "8"
   },
   "escorpiao": {
     "nome": "Escorpião",
     "simbolo": "♏",
-    "carta": "Suspeita",
-    "previsao": "Algo te incomoda. O dia revela sinais sutis e pede atenção para não confiar cegamente em certas palavras.",
-    "conselho": "Observe mais e fale menos por agora.",
-    "comente": "Observe"
+    "carta": "Inimigo",
+    "previsao": "Cuidado com pessoas falsas hoje. Alguém pode tentar atrapalhar com palavras ou inveja.",
+    "conselho": "Fique em silêncio e siga firme no seu caminho.",
+    "comente": "7"
   },
   "sagitario": {
     "nome": "Sagitário",
     "simbolo": "♐",
-    "carta": "Entusiasmo",
-    "previsao": "A energia sobe. Você sente vontade de agir, começar algo novo e espalhar alegria.",
-    "conselho": "Aproveite o impulso, mas evite exageros.",
-    "comente": "Agir"
+    "carta": "Descoberta",
+    "previsao": "Você descobre algo importante hoje. Uma verdade aparece e te ajuda a decidir melhor.",
+    "conselho": "Use a verdade para se proteger, não para brigar.",
+    "comente": "7"
   },
   "capricornio": {
     "nome": "Capricórnio",
     "simbolo": "♑",
-    "carta": "Originalidade Mental",
-    "previsao": "Uma ideia diferente surge. Você resolve algo com criatividade e inspira outros a pensar.",
-    "conselho": "Confie na sua mente inovadora hoje.",
-    "comente": "Confiar"
+    "carta": "Mesa",
+    "previsao": "Conversas sérias acontecem hoje. Uma reunião ou diálogo define caminhos.",
+    "conselho": "Fale com calma e seja firme no que quer.",
+    "comente": "2"
   },
   "aquario": {
     "nome": "Aquário",
     "simbolo": "♒",
-    "carta": "Disciplina Prática",
-    "previsao": "O dia pede responsabilidade. Ao manter foco, você avança muito.",
-    "conselho": "Termine pendências antes de buscar novidades.",
-    "comente": "Foco"
+    "carta": "Partida",
+    "previsao": "Algo se afasta hoje. Pode ser pessoa, hábito ou pensamento. Isso abre espaço para uma fase melhor.",
+    "conselho": "Solte com paz e confie na mudança.",
+    "comente": "9"
   },
   "peixes": {
     "nome": "Peixes",
     "simbolo": "♓",
-    "carta": "Sensibilidade",
-    "previsao": "Você absorve o ambiente com facilidade. Se escolher bem onde estar, o dia será leve e espiritual.",
-    "conselho": "Proteja sua energia.",
-    "comente": "Leve"
+    "carta": "Esterilidade",
+    "previsao": "Você pode sentir falta de inspiração hoje. Nada flui rápido, mas isso é só pausa para recarregar.",
+    "conselho": "Não se cobre tanto, amanhã melhora bastante.",
+    "comente": "7"
   }
 }
